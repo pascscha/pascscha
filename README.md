@@ -4,17 +4,3 @@
     <a href="https://stackoverflow.com/users/10046273/pascscha"><img target="_blank" src="https://raw.githubusercontent.com/pascscha/pascscha/master/images/stackoverflow.png"></a>
     <a href="https://pascscha.ch"><img target="_blank" src="https://raw.githubusercontent.com/pascscha/pascscha/master/images/eth.png"></a>
 </p>
-
-
-
-# Pascal Schärli  <i class="fa fa-linkedin" aria-hidden="true"></i>
-
-Cyber Security Msc. Student at ETH Zürich 
-
-## About
-```
-I love programming.
-I love thinking out of the box.
-I love knowing exactly how things work.
-Therefore I love cyber security.
-```
