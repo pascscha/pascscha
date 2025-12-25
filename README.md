@@ -2,8 +2,8 @@
 
 _Revealing my name with AES-CBC Padding Oracle, read [this](https://pascscha.ch/blog/3-breaking-military-grade-encryption/) for more info_
 
-- 🌐 [pascscha.ch](https://pascscha.ch)
-- 📧 [mail@pascscha.ch](mailto:mail@pascscha.ch)
+- 🌐 [schaerli.org](https://schaerli.org)
+- 📧 [pascal@schaerli.org](mailto:pascal@schaerli.org)
 - 💼 [linkedin.com/in/pascscha/](https://www.linkedin.com/in/pascscha/)
 - 🐘 [mastodon.social/@pascscha](https://mastodon.social/@pascscha)
-- 🐦 [twitter.com/pascscha](https://twitter.com/pascscha)
+- 🐦 [bsky.app/profile/pascscha.ch](https://bsky.app/profile/pascscha.ch)
